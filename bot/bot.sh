@@ -18,7 +18,7 @@ y="\033[1;93m"
 g="\033[1;92m"
 r="\033[1;91m"
 
-REPO="https://raw.githubusercontent.com/sanzVPN/Azerd/ABSTRAK/bot/"
+REPO="https://raw.githubusercontent.com/sanzstore21/sc/main/bot/"
 NS=$( cat /etc/xray/dns )
 PUB=$( cat /etc/slowdns/server.pub )
 domain=$(cat /etc/xray/domain)
